@@ -6,10 +6,10 @@ This project is to analyse...
 
 ## Reports
 
-### No of TV Shows per Country per Country
+### Life Expectancy in some years
 
-![No of TV Shows per Country](/reports/figures/no-of-tv-shows-per-country.png "No of TV Shows per Country")
+![Life Expectancy in some years](/reports/figures/life-expectancy-in-some-years.png "Life Expectancy in some years")
 
-### Cost of Subscription per Month per Country
+### Life Expectancy in 2021
 
-![Cost of Subscription per Month per Country](/reports/figures/cost-per-month-per-country.png "Cost of Subscription per Month per Country")
+![Life Expectancy in 2021](/reports/figures/life-expectancy-in-2021.png "Life Expectancy in 2021")
